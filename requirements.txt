@@ -2,3 +2,6 @@ flask
 flask-sqlalchemy
 flask-bcrypt
 flask-session
+python-dotenv
+flask-session
+redis
